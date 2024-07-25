@@ -1,0 +1,5811 @@
+{
+  "condition": "OR",
+  "not": false,
+  "version": 2,
+  "rules": [
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "10squared.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "111ss.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "118information.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "121companyformation.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "123qwe.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "1stlinedefence.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "23degreesrenewables.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "2bmail.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "365businessfinance.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "3dtransltd.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "4com.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "aadispatchukltd.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ab-technology.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "abacusabs.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "abbeyroadlondon.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "abbottsofficeservices.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "able-group.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "accessbuildingproducts.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ace-wigan.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "acquirz.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "acresoffun.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "acs-comms.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "actionpropertymanagement.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "activebabycompany.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "acutanceconsulting.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "advtechnical.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "aecl.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "afias.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "agamik.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "agilitee.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "agoraservices.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "aica.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ajscomputers.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "akri.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "alderwoodlla.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "aleverenorthampton.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "allendalecomponents.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "allfloorsglasgow.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "allianz.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "allwag.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "alphaaccounts.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "alphacleaningservices.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "alscivil.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "amberleynursery.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "amelie.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "amrc.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "amsmayfair.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "angleburyhouse.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "angloscottishfinance.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "anthesispropertymanagement.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "aon.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "apc-wealden.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "apcmanchester.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "appeciategroup.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "approvedpattesting.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "arcadiaonline.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "archerssteelworkandcladding.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "architecnics.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ardenforestultrasound.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ardorgroup.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "artisanfoodtrail.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "as-contracts.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ascentbusiness.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ascotcare.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ashbywray.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ashfordexecutivecars.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "askeconsulting.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "askpiearcey.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "aspowerengineering.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "astwood4x4.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "atbgroup.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "atchealthcare.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "atkinsonac.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "aufaitmanagement.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "augean.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "auramediagroup.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "autohaus.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "aviva.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "aw-a.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "axa-ppp.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ayearofdates.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ayerstrees.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "b3wealth.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "bacomponents.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "bairwell.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "bangthepartyproductions.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "barbon-inn.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "barnesplumbing.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "bartonknotttravel.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "bathgateflooring.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "bathroomdepotleeds.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "bbaenergy.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "bbpmedia.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "bdobson.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "beaches4less.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "beaumontcourt.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "bedfordhotelsidmouth.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "beeitsolutions.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "beiroom.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "bellonthecommon.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "belmontvehicleleasing.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "benchmarxjoinery.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "bensonpayne.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "berrytelecom.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "bespoke-pensions.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "bhsf.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "biddleliage.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "bilden.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "billingleyvillage.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "birchwoodbiglocal.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "birnbeckhousingassociation.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "bitrez.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "bjpenterprises.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "blacksheeputilities.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "blakeneyhotel.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "blenheimlodgeminehead.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "blue-eye.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "bluebellfittedfurniture.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "blueberryms.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "bluemoxie.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "bluesapphirebookkeeping.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "bluetreegroup.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "blueyonder.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "blyme.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "bmsi.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "bondandwilkes.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "bondautomotiverecruitment.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "borderholidayhomes.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "boundselectricalservices.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "bradfords.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "bridgwaterflorist.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "brownshipley.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "btconnect.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "btopenworld.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "buildingworkforce.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "buj.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "business-stream.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "businesscommunicate.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "businesscostcomparison.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "businessenergydirect.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "businessutilities.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "butlerroofing.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "butterfieldopticians.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "bwinchester.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "bwoc.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "bycroftconsulting.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "caci.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "caldertextiles.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "calor.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "cambournevehicleservices.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "can-qualifications.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "capita.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "capitalschoolofenglish.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "capitalseating.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "carbon-assets.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "card-saver.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "carepath-recruitment.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "carpetdoctor.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "carrfaulkner.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "carronvaletimber.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "casagrande.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "castletownestates.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "castlewater.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "cbf.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ccbmarketing.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "cctvempire.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ccwills.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "centralfinancialplanning.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "certifiedproinstalls.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "chadwicksphoto.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "channicool.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "chessingtongardencentre.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "chestfieldcars.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "choicebusinessloans.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "chrissayer.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "citation.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "citytalkgroup.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ckstone.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ckstonelimited.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "classicinteriors.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "cleanchoicecleaning.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "cleanwiseltd.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "clearwaterpembs.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "cleopatra.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "clivebrook.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "co2design.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "coburgbanks.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "codethink.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "cogent-technology.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "colchesteraccidentrepairs.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "companionsoflondon.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "complete-it.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "comptongsr.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "conation-technologies.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "contegosafety.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "coolbearsandgifts.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "cornwallstreet.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "corpdata.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "coventgardenfishmongers.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "coverupdesigns.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "cpsportsconsultancy.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "crc-services.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "createidentitee.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "creativecarpark.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "creativespacesdesign.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "creditcraft.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "croftcommunications.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "crownsway.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "cs-electronic-pcb.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "cttl.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "cubit-insurance.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "cuckoofair.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "cv-library.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "cvsl.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "cyansolutions.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "cybase.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "cybertill.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "cymphony.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "d-s-l.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "daisycomms.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "daken.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "dalesway.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "darronpalmerphotography.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "data-broker.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "data-responce.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "data-response.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "datahq.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "datalineit.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "daverushton.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "dbsdata.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "delh.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "deliveroo.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "denberrubber.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "derventio-autocentre.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "digicopy.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "digitalflair.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "digitalnation.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "digitalsatelliteservice.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "dm.w3internet.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "dnb.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "dogmail.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "dogtransit.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "duddon-electronics.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "dudleygore.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "dunelmoptical.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "dwtraining.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "e-bikesdirect.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "e-smiths.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "eaglepeakconsulting.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "eastcoaststainless.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "eccelso.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ecologicpartners.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ecst.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "egi.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "eigersolutions.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "eirevo.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "electric-center.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "electricalprotectionltd.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "elitefinefoods.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "elitemind.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "elsteadengineering.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "email-london.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "embeeestates.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "emmittplant.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "emptybox.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ems-cargo.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "engagetech.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "enhancemanagement.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "enragroup.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "entirebuilding.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "envision-online.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "epsomedical.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ersrefrigeration.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "esaw.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "eslip.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "eternallightschool.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "etiveconsulting.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "euro-matic.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "europeconnect.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "everythingmanaged.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ewsolutions.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "exceptone.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "experian.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "explorerdome.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "eyetech-opticians.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ez-training.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "faganwhalley.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "faircloughdesign.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "fastmail.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "fastresponsepfa.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "fastview360.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "fbpl.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "fctrain.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "fdpeople.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "fenleys.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "fernsgroup.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "fetchmail.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "finexinteriors.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "fittonandco.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "flamble.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "fleetservice.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "flexspace.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "fmail.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "foldermedia.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "food-and-beverage-training.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "force9.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "forthdeavellar.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "forwardheating.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "forwardsecurity.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "fosterandcoestateagents.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "fostersalescompany.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "foxcorrigatedmachinery.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "frama.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "franchisebrands.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "freeserve.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "freethought-internet.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "freeukisp.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "freezone.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "friendlymail.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "frontiersdevelopmentsltd.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "fruehauf.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "fswaste.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "future-tel.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "gandptechnology.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "gaskellwaste.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "gateway-chassis.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "gaybrighton.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "gemmells.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "generaldiagnostic.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "genisystech.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "gentlemenstonic.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "geothermalengineering.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "getjar.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "gingerhead.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "gingerlilyflorists.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ginghamhearts.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "glasburyarts.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "glenriddingsailingcentre.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "glynde.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "gmcprojects.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "gofree.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "goodgreenshop.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "gordianknotsolutions.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "gosimplyfunerals.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "gowargrilles.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "grahamikin.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "grandillusions.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "graphicsforcoaches.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "greatbear.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "greenbooks.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "greeneng.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "greener-power.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "greenlightrecruitment.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "greenpoweradvice.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "grishamlloyd.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "groveresidential.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "grpsafety.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "gsproperties.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "guardianproperty.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "hagenmoresby.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "haguefasteners.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "harmonymadetomeasure.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "hartandsumpner.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "hartfordcare.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "hawcogroup.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "hawkinspriday.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "hcrfm.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "heaphys.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "henna-boy.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "heyner.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "hfspfg.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "hiexpressvictoria.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "highland.audi.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "hinckleybid.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "hle.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "hobbspharmacy.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "holdsworth-foods.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "homebox.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "hootcreativearts.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "hostingland.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "hotmail.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "houseofcanopies.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "houseofgentlemen.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "hthughescaerwys.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "huboffice.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "humanicity.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "huntersyard.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "hux.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "i-realise.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "i2isolutions.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ian-sinclair.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ianstrachancommunications.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "icanuse.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "icelabz.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "icgpropertyservices.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ie-eng.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "iglsurveying.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ilonabiggins.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "imposter.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "inchofgold.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "indentdesign.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "infinitearch.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "infund.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "inhouseestateagents.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "inktechinnovation.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "innovationsatwork.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "inspiredenergy.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "inspiredjewelleryonline.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "inspirefinancialsolutionsltd.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "instantprint.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "intelletech.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "intelligent.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "intelligentvehiclefinance.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "intercounty-paramedic.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "intology.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "iris.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ivystationery.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "iwoca.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "jackscentre.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "jakellyelectrical.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "jewson.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "jfood-and-beverage-training.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "jhoggy.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "jkscaffolding.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "jksfloorings.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "johnflowers.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "johnharrisongroup.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "johnstonhorsburgh.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "jpcourierservices.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "jscottdesign.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "jtkab.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "k4b.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "k9protectionltd.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "kadltd.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "kaimia.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "kayprint.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "kcookjoinery.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "keeplegal.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "kennfordtarmacadam.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "kewaccountants.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "kewelectrical.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "keyline.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "keyosk.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "keystoneroofing.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "keytraining.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "kingsleyfinancialconsulting.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "klimasolutions.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "kpselectricalservicesltd.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "labproductions.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "labtekelectrical.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "lahairsolutions.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "lam-art.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "lamontassociates.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "landmark.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "lasercutz.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "lastnightoffreedom.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "leatherunlimited.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "legacie.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "leisurepr.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "leonardoakley.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "letsipswich.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "lgselect.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "liquidline.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "listedbyowners.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "live.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "londontranslationhouse.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "longdendoors.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "longpaws.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "looksmart.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "lovieconstruction.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "lowryconstruction.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "lrlima.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "lubritechuk.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "lycos.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "lynn-thompson.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "lyonelectricalscotland.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "lyonsstonework.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "maclellanphysio.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "maddison.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "madplay.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "madrenaline.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "magpi.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "manchestersafety.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "maneumbrellas.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "manverslaketrust.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "mappvending.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "market-mapping.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "marketingoutsource.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "marketscan.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "marshcommercial.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "martinhaswell.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "martinsmillpackaging.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "mauricefitchtreeworks.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "max-telecom.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "maximpensions.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "maxinelester.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "maxmail.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "mcinternationallinks.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "mcontrols.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "mcserviceslinks.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "mediapro-training.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "mediawiseltd.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "melbek.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "mellerdesigns.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "mendipaccountancy.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "menforallseasons.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "merrehill.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "merritts-solicitors.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "meshdirect.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "metrorod.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "mey-tech.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "mibdatasolutions.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "micromech.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "midland-counties.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "midshiretelecom.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "millsmediacreative.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "milnerboardman.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "milnesafety.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "mobileninja.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "moderndesigners.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "monumentvets.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "mortgageworkshop.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "mrdrivesandpatiosltd.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "mullenandkellyconstruction.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "mveconsultancy.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "my118information.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "myerstouch.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "mymesh.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "myoakframe.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "nationwidefrankingsense.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "neilrenwickfreelancedriver.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "nemogroup.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "nenepackaging.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "nerizon.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "netscapeonline.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "newtownhouse.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "newviewresidential.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "nipsahousing.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "nomios.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "northernfoodservices.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "nrsestates.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ntgear.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "nucleus-cf.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "o2.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "oceanviewwindmillgower.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "odyssey-systems.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "oldpostcentre.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ombar.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "onvibe.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "opentelecom.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "optionis.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "orate.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "origingallery.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ottertrading.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ovationboatservices.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "palladiumspirit.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "parkesbusinessservices.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "parklanetextiles.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "parkminster.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "parkwayinsurance.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "parsolutions.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "partingtonprint.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "payzone.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "pbates.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "pbwlaw.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "peak-advertiser.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "pescado.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "peterwarm.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "pfgl.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "pgon.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "phoenixenergy.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "photocast.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "pied-a-terre.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "pillarsenv.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "planetdetox.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "plantmovements.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "plgaquatics.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "pmbpallets.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "poleperfectfitness.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "pooleyconsulting.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "poppletonlive.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "postmaster.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "postofficeclub.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "precisioncargo.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "premiersupportservices.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "prestigeautoworks.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "prestigecarservice.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "principalpowertools.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "professionalminds.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "proquantestimating.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "protechcoverings.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "protravel2000.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "psychotherapia.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "pumptec.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "qassurebuild.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "qdgroup.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "qmedical.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "qps-solution.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "quadratec-ltd.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "raccelectricals.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "rachelgoddardaesthetics.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "radiocaroline.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "radiotaxis-online.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "rainbowmasterbuilders.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "rally-raidproducts.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ranaldi.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "recreatedesign.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "recruitment-doctor.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "red-rocks.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "redditchcomputerservices.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "redhoundsstudios.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "redsupportedliving.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "redwingrecruitment.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "regale.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "regencyhealth.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "regentstone.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "renchem.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "requireit.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "resinboundspecialists.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "restore.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "retailmerchantservices.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "returnmymoney.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "rhodesgroup.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "richardordconsulting.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ringwoodedge.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "risetechnical.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "rivierainsurance.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "rixandkay.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "roadtech.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "rolecserv.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "romafinance.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "romanyheadlam.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "rotary.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "rougegarments.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "rutherfordconsulting.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "rybrooklandrover.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "rydalengineering.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ryebayproperty.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ryeguide.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "sacredink.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "safefireprotection.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "safetysuppliesdirect.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "salonwinestore.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "saltcote.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "samplesped.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "sangerwalexchange.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "santander.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "sbs.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "scatchard.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "schofieldinteriors.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "scothernconst.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "scottishmail.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "screenyorkshire.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "selectcarleasing.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "semservices.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "sensepattesting.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "sewonservices.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "sgcmail.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "sheikhassociates.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "shepherd.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "signalsolutions.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "signway.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "silverliningsoftware.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "silverpointmedia.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "simpac.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "siteservice.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "siteservices.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "sj-fs.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "smartpension.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "smithandswepson.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "smithfieldagency.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "snapegroup.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "soccerstarsuk.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "solarenergystorage.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "solarmax.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "son-et-lumiere.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "sorl.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "sorrellconstruction.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "southendairporttravel.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "southern-comms.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "southernairsystems.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "spikeassociates.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "squigglesnursery.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "staustellbrewery.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "steelemedia.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "stensonlaurencekirk.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "steppingfp.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "stereointeriors.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "stgeorgesbristol.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "stjameschiro.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "stobohealth.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "strokeinformation.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "studiospicer.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "suedon.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "suntouched.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "suttonhousegroup.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "swanretail.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "swapz.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "swiftfund.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "sword-contracts.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "swsmail.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "systemics.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "t-q-s.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "t1000.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "t2group.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "tallon.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "taxassist.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "taylor.maxwell.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "tcmk.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "teamresourcing.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "technologypartners.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "tellus-solutions.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "terrier.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "the-it-guru.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "theballetbox.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "thebroadwayclub.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "thecookpartnership.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "thedwmedia.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "theforesterdonheadstandrew.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "thegreatcircle.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "thehertsmere.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "thehornofplenty.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "themta.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "theoldpostofficebarnsley.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "theparliamentaryreview.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "thersr.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "thesanctuarysuckley.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "theteachertrainer.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "thewebpros.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "thewellbeinggroup.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "thewolfrock.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "thirdmillenniumpress.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "thornetimes.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "threesixtycollective.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "thunkcreative.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "timber-stone.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "tiscali.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "tjbooks.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "tlsdata.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "topdogsinflatables.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "topgamers.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "totalmerchandise.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "towergate.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "tracegains.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "trackwork.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "traffordhousingtrust.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "trantech.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "travelandmore.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "travisperkins.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "treadmill-repairs.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "trefoilfarm.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "tri-fab.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "tricapital.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "triton-grey.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "tsb.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "tsmcompetitions.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "tubeengineers.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "turfcare.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "turgon.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "turquoise.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "tutorcareltd.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "tvrmedia.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "twinkleontheweb.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "tyd-fo.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "tynesidegolfclub.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "uit.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "uk.airtanker.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ukenergy-services.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ukinsulationadvice.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "uksmltd.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "uku.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "underfloorheating.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "upstagesupplies.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "valleyanglesey.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "varilight.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "velnet.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "ventureoffices.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "verallia.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "vikisgrooming.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "violinmakers.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "vision-lighting.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "vitality.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "vortexantennas.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "warwickwhelpingboxes.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "wastemanaged.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "water-plus.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "watercressline.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "waterlesstoilets.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "watermarkgallery.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "waterswye.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "watsonfuels.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "waveneyvalleylakes.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "waxingspecialist.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "waynepeapellconsultancy.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "wearetiming.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "websterinternet.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "webwindows.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "wendovernews.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "westbrookagency.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "westfieldfoods.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "westonturvillegc.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "wginstallations.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "wgprep.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "whitemetal.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "whiteover.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "wildandrust.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "wildfirelighting.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "windhillcommunity.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "window-box.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "wishbonebrewery.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "wkw-eng.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "workforcefirst.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "workingpropertyltd.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "workshopporjects.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "workspacegroup.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "wottonhallsocialclub.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "wright-co.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "wtldevelopments.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "wys-systems.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "x313.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "xendex.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "xlntelecom.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "xperient.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "yahoo.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "yogabodybirmingham.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "yorkassemblies.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "zetnet.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "zymtrading.co.uk"
+    },
+    {
+      "id": "emailAddress",
+      "field": "emailAddress",
+      "type": "string",
+      "operator": "contains",
+      "value": "zzom.co.uk"
+    }
+  ],
+  "valid": true
+}
