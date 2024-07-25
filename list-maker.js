@@ -1,5 +1,5 @@
 function populateList(input) {
-    //write create and populate list elements here
+    //create and populate list elements here
 }
 
 document.addEventListener('DOMContentLoaded', () => {
